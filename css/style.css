@@ -1,5 +1,6 @@
 body {
   width: 100%;
+  background-color: #000!important;
 }
 body:before,
 body:after {
@@ -1344,3 +1345,4 @@ pre .javascript .function {
   margin-right: 5px;
   display: inline-block;
 }
+
